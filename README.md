@@ -36,7 +36,7 @@
 
 ## About The Project
 
-The Morph starter kit helps developers quickly and efficiently, build dApps on the Morph blockchain. It is a comprehensive template for building fullstack dApps. This starter kit is an extension of the [ReactToWeb3 kit](https://github.com/Protocol-Explorer/ReactToWeb3)
+This is a project build base on Morph Start kit for demonstation of DApp on using smart contract and smart contract finance  This starter kit is an extension of the [ReactToWeb3 kit](https://github.com/Protocol-Explorer/ReactToWeb3)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
